@@ -1,0 +1,19 @@
+{
+    "name": "sheypoor/php-testing",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "license": "ISC",
+    "autoload": {
+        "psr-4": {
+            "Sheypoor\\PhpTesting\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hamed",
+            "email": "hamedbaftam@gmail.com"
+        }
+    ]
+}
